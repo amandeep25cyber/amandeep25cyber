@@ -68,9 +68,8 @@
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/amandeep25cyber
-- LinkedIn: *Add your link*
-- Portfolio: *Add your link*
-- Email: *Add your email*
+- LeetCode: https://leetcode.com/u/__Amandeep/
+- Email: st.amandeep25@gmail.com
 
 ---
 
