@@ -44,9 +44,9 @@
 
 ## 🐍 Contribution Snake
 
-> Enable a GitHub Action to generate:
->
-> `https://raw.githubusercontent.com/amandeep25cyber/amandeep25cyber/output/github-contribution-grid-snake.svg`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amandeep25cyber/amandeep25cyber/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
 
 ## 🚀 Featured Projects
 
